@@ -4,6 +4,8 @@ Hi! My name is Edoardo and I'm an undergraduate student at Bocconi University, w
 # Education
 
 **MSc Mathematics in Science and Engineering**, TUM Munich, October 2024-July 2026
+- Specialization in computer science, with a focus on bioinformatics and machine learning
+- Research project in ...
 
 **BSc Mathematics and Computational Sciences for Artificial Intelligence**, Bocconi University, September 2021-July 2024
 
