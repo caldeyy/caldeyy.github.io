@@ -17,3 +17,12 @@ Proteins are fundamental actors in our bodies that carry out a wide range of cri
 In an attempt to analyze at large scale the non-linear relationships between mRNA expression and protein abundance in cancer, we employ two popular state-of-the-art classes of non-linear methods: boosting and deep learning.
 In particular, this work focuses on AdaBoost and XGBoost, latent representations from autoencoders, semi-supervised learning, and Transformer neural networks.
 These complex techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
+
+### Detecting hypoxia from scRNA-seq expression
+Bla bla bla
+
+### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification
+Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes. We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques. Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
+
+### Investigating mice 3d representation capabilities from exposure to monocular stimuli
+In this study, we investigate the ability of mice to perceive the three-dimensional structure of their surrounding environment by analyzing two-dimensional images perceived with a single eye. Exposing them to monocular stimuli, we aim to elucidate the role of single-eye visual input in the depth perception of mice moving in a 3D world. Our results do not evidence clear patterns and the ones that emerged are subject to very strong limitations in their conclusiveness.
