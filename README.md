@@ -1,2 +1,1 @@
-# Edoardo Calderoni
-Hi! My name is Edoardo and I'm an applied math and AI student at Bocconi.
+Hi! My name is Edoardo and I'm a Master's student in Applied Mathematics at TU Delft, where I am focusing on Discrete Optimization, Machine Learning and Computational Biology. I graduated last summer from Bocconi University, where I studied Mathematical and Computational Sciences for AI.
