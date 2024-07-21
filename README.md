@@ -5,9 +5,14 @@ Indeed, my ambition is to work in the field of computational biology, as I find 
 
 When I'm not coding or mathing around, you may find me playing chess or practicing martial arts.
 
+---
+
 # Education
 
-**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, September 2021-July 2024
+**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan
+**High School Diploma**, IIS Martin Luther King, Muggiò
+
+---
 
 # Projects
 
