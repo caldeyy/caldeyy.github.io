@@ -33,6 +33,9 @@ Bla bla bla
 ### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification
 Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes.
 
+![](/assets/img/image_galaxies.png)
+*An example from each of the ten morphology classes*
+
 We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques.
 
 Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
