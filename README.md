@@ -10,6 +10,7 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 # Education
 
 **BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan
+
 **High School Diploma**, IIS Martin Luther King, Muggiò
 
 ---
