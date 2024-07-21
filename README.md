@@ -40,4 +40,5 @@ Through comparative analysis, we identified the most effective methodologies for
 ### Investigating mice 3d representation capabilities from exposure to monocular stimuli
 We investigate the ability of mice to perceive the three-dimensional structure of their surrounding environment by analyzing two-dimensional images perceived with a single eye. Exposing them to monocular stimuli, we aim to elucidate the role of single-eye visual input in the depth perception of mice moving in a 3D world.
 
-![bla bla](/assets/img/crop.png)
+![](/assets/img/crop.png)
+*Analyzing a small crop in the image simplifies the analysis due to small depth variance and receptive field size*
