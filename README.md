@@ -27,6 +27,8 @@ In an attempt to analyze at large scale the non-linear relationships between mRN
 In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders.
 These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
 
+![](/assets/img/ccle.png)
+
 ### Detecting hypoxia from scRNA-seq expression
 Bla bla bla
 
