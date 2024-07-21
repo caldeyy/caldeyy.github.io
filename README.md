@@ -23,7 +23,7 @@ However, diseases are often better understood at the level of mRNA, which is eas
 
 In an attempt to analyze at large scale the non-linear relationships between mRNA expression and protein abundance in cancer, we employ two popular state-of-the-art classes of non-linear methods: boosting and deep learning.
 
-In particular, this work focuses on AdaBoost and XGBoost, latent representations from autoencoders, transformers, and latent representations from autoencoders.
+In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders.
 These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
 
 ### Detecting hypoxia from scRNA-seq expression
