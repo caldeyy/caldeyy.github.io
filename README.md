@@ -38,9 +38,6 @@ Astronomy generates vast amounts of image data, which necessitate reliable autom
 
 We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques.
 
-![](/assets/img/fine-tuned(1).png)
-*Attention map from fine-tuned DINOv1*
-
 Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
 
 ### Investigating mice 3d representation capabilities from exposure to monocular stimuli
