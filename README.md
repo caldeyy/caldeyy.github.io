@@ -1,5 +1,5 @@
 # About me
-Hi! My name is Edoardo and I'm a master's student at TU Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi with a bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are graph theory, optimization, geometric deep learning, and bioinformatics.
+Hi! My name is Edoardo and I'm a master's student at TU Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi with a bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are graphs, optimization, geometric deep learning, and bioinformatics.
 
 Indeed, my ambition is to work in the field of computational biology, as I find this path to be intriguing and purposeful, and I'm convinced that I can make a large positive impact by applying my skills to this area.
 
