@@ -9,12 +9,12 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 
 # Education
 
-**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan
-- Final grade: 107/110
-- Gpa: 28.2/30
+**MSc Mathematics in Science and Engineering**, Technical University of Munich, Munich, Germany
+- Application focus area: biomedical machine learning
 
-**High School Diploma**, IIS Martin Luther King, Muggiò
-- Final grade: 96/100
+**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan, Italy
+- Thesis: "Inference of the dynamics of protein abundance and regulation in cancer: boosting and deep learning approaches", advisor: Francesca Buffa
+
 
 ---
 
