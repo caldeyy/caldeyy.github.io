@@ -10,16 +10,14 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 # Education
 
 **MSc Mathematics in Science and Engineering**, Technical University of Munich, Munich, 2024-2026
-- Application focus area: biomedical machine learning
 
 **BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan, 2021-2024
-- Thesis: "Inference of the dynamics of protein abundance and regulation in cancer: boosting and deep learning approaches", advised by Francesca Buffa
 
 ---
 
 # Projects
 
-### Inferring protein abundance in cancer with boosting and deep learning
+### Inferring protein abundance in cancer with boosting and deep learning (bachelor thesis)
 Proteins are fundamental actors in our bodies that carry out a wide range of critical cell functions. Understanding how diseases affect the protein landscape can reveal important insights into the biological mechanisms implicated in such diseases, and it can help in designing effective treatments.
 
 However, diseases are often better understood at the level of mRNA, which is easier to quantify precisely. Several studies have reported discordance between mRNA and protein levels. Moreover, the relationship between the two is complex, noisy, and highly non-linear. Bridging this gap helps to provide a more comprehensive understanding of cellular function and regulatory mechanisms.
