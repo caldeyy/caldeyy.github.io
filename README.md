@@ -9,12 +9,11 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 
 # Education
 
-**MSc Mathematics in Science and Engineering**, Technical University of Munich, Munich, Germany
+**MSc Mathematics in Science and Engineering**, Technical University of Munich, Munich, 2024-2026
 - Application focus area: biomedical machine learning
 
-**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan, Italy
-- Thesis: "Inference of the dynamics of protein abundance and regulation in cancer: boosting and deep learning approaches", advisor: Francesca Buffa
-
+**BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan, 2021-2024
+- Thesis: "Inference of the dynamics of protein abundance and regulation in cancer: boosting and deep learning approaches", advised by Francesca Buffa
 
 ---
 
