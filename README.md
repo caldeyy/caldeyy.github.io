@@ -1,7 +1,9 @@
 # About me
-Hi! My name is Edoardo and I'm a master's student at TU Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi with a bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are graphs, optimization, geometric deep learning, and bioinformatics.
+Hi! My name is Edoardo and I'm a master's student at TU Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi University with a bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are graphs, optimization, computational biology, and graph machine learning.
 
-Indeed, my ambition is to work in the field of computational biology, as I find this path to be intriguing and purposeful, and I'm convinced that I can make a large positive impact by applying my skills to this area.
+From August of 2024, I started working as a research assistant at Bocconi, with funding from the European Research Council and under the guidance of Professor Francesca Buffa. In collaboration with biologists at the University of Oxford, we are exploring the dynamics of protein abundance with an approach that combines machine learning with mechanistic models based on differential equations and simulations. The greater goal is to understand gene regulation and the evolution of protein levels in tumor microenvironments.
+
+My ambition is to work in the field of biomedical machine learning, as I find this path to be intriguing and purposeful, and I'm convinced that I can make a large positive impact by applying my skills to this area.
 
 When I'm not coding or mathing around, you may find me playing chess or practicing martial arts.
 
@@ -12,6 +14,17 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 **MSc Mathematics in Science and Engineering**, Technical University of Munich, Munich, 2024-2026
 
 **BSc Mathematical and Computing Sciences for Artificial Intelligence**, Bocconi University, Milan, 2021-2024
+
+---
+
+# Experience
+
+**Research Assistant**, Bocconi University, Milan, 2024-2025
+- Funding: ERC, "Agent-Based Modelling of Gene Networks to model clonal selection in the tumour microenvironment and predict therapeutic resistance"
+- Scientific Coordinator: Francesca Buffa
+- Topics: transcriptomics, proteomics, boosting algorithms, attention and transformers, semi-supervised learning, physics-informed neural networks.
+
+**Tutor in Mathematics and Physics**, Monza e Brianza, 2018-2024
 
 ---
 
