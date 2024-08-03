@@ -31,15 +31,14 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 
 # Projects
 
-### Inferring protein abundance in cancer with boosting and deep learning (bachelor thesis)
+### BSc Thesis: "Inference of the Dynamics of Protein Abundance and Regulation in Cancer: Boosting and Deep Learning Approaches"
 Proteins are fundamental actors in our bodies that carry out a wide range of critical cell functions. Understanding how diseases affect the protein landscape can reveal important insights into the biological mechanisms implicated in such diseases, and it can help in designing effective treatments.
 
 However, diseases are often better understood at the level of mRNA, which is easier to quantify precisely. Several studies have reported discordance between mRNA and protein levels. Moreover, the relationship between the two is complex, noisy, and highly non-linear. Bridging this gap helps to provide a more comprehensive understanding of cellular function and regulatory mechanisms.
 
 In an attempt to analyze at large scale the non-linear relationships between mRNA expression and protein abundance in cancer, we employ two popular state-of-the-art classes of non-linear methods: boosting and deep learning.
 
-In particular, this work focuses on AdaBoost and XGBoost, transformers, latent representations from autoencoders, and self-supervised learning by iterative data generation.
-These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
+In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders. These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
 
 ![](/assets/img/ccle.png)
 
