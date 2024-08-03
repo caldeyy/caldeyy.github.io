@@ -20,9 +20,9 @@ When I'm not coding or mathing around, you may find me playing chess or practici
 # Experience
 
 **Research Assistant in Computational Biology**, Bocconi University, Milan, 2024-2025
-- Funding: ERC, "Agent-Based Modelling of Gene Networks to model clonal selection in the tumour microenvironment and predict therapeutic resistance"
+- Funding: European Research Council - "Agent-Based Modelling of Gene Networks to model clonal selection in the tumour microenvironment and predict therapeutic resistance"
 - Scientific Coordinator: Francesca Buffa
-- Topics: transcriptomics, proteomics, boosting algorithms, attention and transformers, semi-supervised learning, physics-informed neural networks.
+- Topics: transcriptomics, proteomics, gene networks, boosting algorithms, attention and transformers, semi-supervised learning, physics-informed neural networks.
 - We explore the dynamics of protein abundance and its relation to mRNA levels, leading to a richer understanding of gene regulation in cancer.
 
 **Tutor in Mathematics and Physics**, Monza e Brianza, 2018-2024
@@ -38,7 +38,7 @@ However, diseases are often better understood at the level of mRNA, which is eas
 
 In an attempt to analyze at large scale the non-linear relationships between mRNA expression and protein abundance in cancer, we employ two popular state-of-the-art classes of non-linear methods: boosting and deep learning.
 
-In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders.
+In particular, this work focuses on AdaBoost and XGBoost, transformers, latent representations from autoencoders, and self-supervised learning by iterative data generation.
 These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
 
 ![](/assets/img/ccle.png)
