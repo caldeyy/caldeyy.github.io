@@ -1,9 +1,9 @@
 # About me
 Hi! My name is Edoardo and I'm a Master's student at the Technical University of Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi University with a Bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are optimization and graph theory.
 
-My ambition is to apply my expertise in mathematical optimization to solve interesting real-world problems.
+My ambition is to apply my expertise in mathematical optimization and algorithms to solve interesting real-world problems from a variety of different domains.
 
-I'm currently working as a student researcher in Machine Learning at Bocconi under the guidance of Professor Francesca Buffa.
+I'm currently working as a student researcher in Machine Learning and Computational Biology at Bocconi, under the guidance of Professor Francesca Buffa.
 
 When I'm not coding or mathing around, you can find me practicing martial arts, playing chess, hiking, or watching football.
 
