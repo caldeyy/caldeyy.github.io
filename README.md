@@ -34,7 +34,7 @@ District Heating Networks offer a centralized, sustainable solution for deliveri
 
 ### Variant Effect Scores from DNA Language Models [(pdf)](folder/System_Genetics.pdf)
 The task of estimating the deleteriousness of a variant is pivotal in human genetics. We exploit the flexibility and power of DNA language models to extract a wide variety of effect scores based on nucleotide dependencies and model embeddings. We benchmark our scores by computing their correlation with nine promoter mutagenesis screens. Finally, we compare our measures to determine the best way of obtaining effect scores from DNA LMs. Our approaches exhibit a marginal improvement over the old influence score.
-![](/assets/img/dna_lm.png)
+![](/assets/img/dna_lm2.png)
 
 *Nucleotide depenedencies are computed using DNA-LMs. Then the outgoing dependencies from a query variant are aggregated using weighted sums, page rank, or embeddings to obtain a deleteriousness score for the variant*
 
