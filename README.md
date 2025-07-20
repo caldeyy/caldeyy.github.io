@@ -40,17 +40,13 @@ In particular, this work focuses on AdaBoost and XGBoost, transformers, and late
 
 ![](/assets/img/ccle.png)
 
-### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification
-[Download pdf.](folder/Galaxy_Morphologies.pdf)
+### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification [(pdf)](folder/Galaxy_Morphologies.pdf)
+[(Download pdf)](folder/Galaxy_Morphologies.pdf)
 
-Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes.
+Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes. We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture, a convolutional network with early denoising layers. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques. Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
 
 ![](/assets/img/image_galaxies.png)
 *An example from each of the ten morphology classes*
-
-We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture, a convolutional network with early denoising layers. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques.
-
-Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
 
 ### Investigating mice 3d representation capabilities from exposure to monocular stimuli
 We investigate the ability of mice to perceive the three-dimensional structure of their surrounding environment by analyzing two-dimensional images perceived with a single eye. Exposing them to monocular stimuli, we aim to elucidate the role of single-eye visual input in the depth perception of mice moving in a 3D world.
