@@ -41,6 +41,8 @@ In particular, this work focuses on AdaBoost and XGBoost, transformers, and late
 ![](/assets/img/ccle.png)
 
 ### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification
+<a href="caldeyy.github.io/folder/galaxymorphologies.pdf" target="_blank">PDF.</a>
+
 Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes.
 
 ![](/assets/img/image_galaxies.png)
