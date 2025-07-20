@@ -29,6 +29,11 @@ When I'm not coding or mathing around, you can find me practicing martial arts, 
 
 # Projects
 
+### Case Study in Discrete Optimization: District Heating Netowrks
+Semester project in collaboration with Siemens.
+
+District Heating Networks offer a centralized, sustainable solution for delivering heat to residential areas. The focus of the case study was to develop and test models that can solve a profit maximization network problem and prove under which conditions an optimal solution can be found. Two optimization models were designed: a Mixed Integer-Linear Program (MILP) and an alternating approach based on Prize-Collecting Steiner Trees (PCST). Using district data from Hamburg and with the help of Siemens, each model was applied to simulate realistic scenarios and assess their effectiveness under varying network conditions.
+
 ### Variant Effect Scores from DNA Language Models [(pdf)](folder/System_Genetics.pdf)
 The task of estimating the deleteriousness of a variant is pivotal in human genetics. We exploit the flexibility and power of DNA language models to extract a wide variety of effect scores based on nucleotide dependencies and model embeddings. We benchmark our scores by computing their correlation with nine promoter mutagenesis screens. Finally, we compare our measures to determine the best way of obtaining effect scores from DNA LMs. Our approaches exhibit a marginal improvement over the old influence score.
 
