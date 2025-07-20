@@ -29,26 +29,21 @@ When I'm not coding or mathing around, you can find me practicing martial arts, 
 
 # Projects
 
-### BSc Thesis: "Inference of the Dynamics of Protein Abundance and Regulation in Cancer: Boosting and Deep Learning Approaches"
-Proteins are fundamental actors in our bodies that carry out a wide range of critical cell functions. Understanding how diseases affect the protein landscape can reveal important insights into the biological mechanisms implicated in such diseases, and it can help in designing effective treatments.
+### Variant Effect Scores from DNA Language Models [(pdf)](folder/System_Genetics.pdf)
+The task of estimating the deleteriousness of a variant is pivotal in human genetics. We exploit the flexibility and power of DNA language models to extract a wide variety of effect scores based on nucleotide dependencies and model embeddings. We benchmark our scores by computing their correlation with nine promoter mutagenesis screens. Finally, we compare our measures to determine the best way of obtaining effect scores from DNA LMs. Our approaches exhibit a marginal improvement over the old influence score.
 
-However, diseases are often better understood at the level of mRNA, which is easier to quantify precisely. Several studies have reported discordance between mRNA and protein levels. Moreover, the relationship between the two is complex, noisy, and highly non-linear. Bridging this gap helps to provide a more comprehensive understanding of cellular function and regulatory mechanisms.
+### Inference of the Dynamics of Protein Abundance and Regulation in Cancer: Boosting Methods and Deep Learning [(pdf)](folder/Bachelor_Thesis.pdf)
+Bachelor thesis supervised by Francesca Buffa.
 
-In an attempt to analyze at large scale the non-linear relationships between mRNA expression and protein abundance in cancer, we employ two popular state-of-the-art classes of non-linear methods: boosting and deep learning.
-
-In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders. These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
-
-![](/assets/img/ccle.png)
+This work investigates the complex, non-linear relationship between mRNA expression and protein abundance in cancer, aiming to bridge the gap between transcriptomic and proteomic data for a deeper understanding of cellular function and disease mechanisms. While mRNA is easier to measure and often used to study diseases, its levels do not always correlate with protein abundance, highlighting the need for advanced modeling techniques. To address this, the study applies state-of-the-art non-linear methods—including AdaBoost, XGBoost, transformers, and autoencoders—to uncover hidden patterns and regulatory dynamics that influence protein synthesis in cancer cells.
 
 ### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification [(pdf)](folder/Galaxy_Morphologies.pdf)
-[(Download pdf)](folder/Galaxy_Morphologies.pdf)
-
 Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes. We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture, a convolutional network with early denoising layers. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques. Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
 
 ![](/assets/img/image_galaxies.png)
 *An example from each of the ten morphology classes*
 
-### Investigating mice 3d representation capabilities from exposure to monocular stimuli
+### Investigating mice 3d representation capabilities from exposure to monocular stimuli [(pdf)](folder/Neuroscience_Report.pdf)
 We investigate the ability of mice to perceive the three-dimensional structure of their surrounding environment by analyzing two-dimensional images perceived with a single eye. Exposing them to monocular stimuli, we aim to elucidate the role of single-eye visual input in the depth perception of mice moving in a 3D world.
 
 ![](/assets/img/depth.png)
