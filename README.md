@@ -1,11 +1,11 @@
 # About me
-Hi! My name is Edoardo and I'm a Master's student at the Technical University of Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi University with a Bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are optimization, graph theory, computational biology, and graph machine learning.
+Hi! My name is Edoardo and I'm a Master's student at the Technical University of Munich, where I'm studying Mathematics in Science and Engineering. I recently graduated from Bocconi University with a Bachelor's degree in Mathematical and Computing Sciences for Artificial Intelligence. I'm deeply passionate about mathematics and algorithms, and my main interests are optimization and graph theory.
 
-My ambition is to work in the field of bioinformatics, as I find this path to be both intriguing and purposeful, and I'm convinced that I can make a large positive impact by applying my skills in this area.
+My ambition is to apply my expertise in mathematical optimization to interesting real-world problems.
 
-I'm currently working as a student researcher at Bocconi under the guidance of Professor Francesca Buffa.
+I'm currently working as a student researcher in Machine Learning at Bocconi under the guidance of Professor Francesca Buffa.
 
-When I'm not coding or mathing around, you can find me practicing martial arts, playing chess, or watching football.
+When I'm not coding or mathing around, you can find me practicing martial arts, playing chess, hiking, or watching football.
 
 ---
 
@@ -19,13 +19,11 @@ When I'm not coding or mathing around, you can find me practicing martial arts, 
 
 # Experience
 
-**Research Assistant in Computational Biology**, Bocconi University, Milan, 2024-2025
+**Research Assistant in Machine Learning**, Bocconi University, Milan, 2024-2025
 - Funding: European Research Council - "Agent-Based Modelling of Gene Networks to model clonal selection in the tumour microenvironment and predict therapeutic resistance"
 - Scientific Coordinator: Francesca Buffa
 - Topics: transcriptomics, proteomics, gene networks, boosting algorithms, attention and transformers, semi-supervised learning, physics-informed neural networks.
 - We explore the dynamics of protein abundance and its relation to mRNA levels, leading to a richer understanding of gene regulation in cancer.
-
-**Tutor in Mathematics and Physics**, Monza e Brianza, 2018-2024
 
 ---
 
@@ -41,9 +39,6 @@ In an attempt to analyze at large scale the non-linear relationships between mRN
 In particular, this work focuses on AdaBoost and XGBoost, transformers, and latent representations from autoencoders. These techniques capture the hidden relationships between variables, elucidating the complex dynamics governing protein synthesis and regulation in cancer.
 
 ![](/assets/img/ccle.png)
-
-### Detecting hypoxia from scRNA-seq expression
-Bla bla bla
 
 ### A comparison of deep and transfer learning approaches for image-based galaxy morphology classification
 Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes.
