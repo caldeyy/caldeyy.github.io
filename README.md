@@ -29,9 +29,7 @@ When I'm not coding or mathing around, you can find me practicing martial arts, 
 
 # Projects
 
-### Case Study in Discrete Optimization: District Heating Netowrks
-Semester project in collaboration with Siemens.
-
+### Case Study in Discrete Optimization: District Heating Netowrks (with Siemens)
 District Heating Networks offer a centralized, sustainable solution for delivering heat to residential areas. The focus of the case study was to develop and test models that can solve a profit maximization network problem and prove under which conditions an optimal solution can be found. Two optimization models were designed: a Mixed Integer-Linear Program (MILP) and an alternating approach based on Prize-Collecting Steiner Trees (PCST). Using district data from Hamburg and with the help of Siemens, each model was applied to simulate realistic scenarios and assess their effectiveness under varying network conditions.
 
 ### Variant Effect Scores from DNA Language Models [(pdf)](folder/System_Genetics.pdf)
