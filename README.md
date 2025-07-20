@@ -47,10 +47,12 @@ This work investigates the complex, non-linear relationship between mRNA express
 Astronomy generates vast amounts of image data, which necessitate reliable automated classification algorithms that can capture the subtle differences in galaxy shapes. We explore a wide range of supervised strategies, from fine-tuning pre-trained models to devising our custom architecture, a convolutional network with early denoising layers. Finally, we approach the problem in an unsupervised fashion, leveraging DINO embeddings and clustering techniques. Through comparative analysis, we identified the most effective methodologies for the classification of galaxy morphology, providing insights into the broader question of model development versus adaptation in computer vision.
 
 ![](/assets/img/image_galaxies.png)
+
 *An example from each of the ten morphology classes*
 
 ### Investigating mice 3d representation capabilities from exposure to monocular stimuli [(pdf)](folder/Neuroscience_Report.pdf)
 We investigate the ability of mice to perceive the three-dimensional structure of their surrounding environment by analyzing two-dimensional images perceived with a single eye. Exposing them to monocular stimuli, we aim to elucidate the role of single-eye visual input in the depth perception of mice moving in a 3D world.
 
 ![](/assets/img/crop.png)
+
 *Analyzing a small crop in the image helps dealing with limited receptive fields and depth variance*
