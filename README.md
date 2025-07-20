@@ -5,7 +5,7 @@ My ambition is to apply my expertise in mathematical optimization and algorithms
 
 I'm currently working as a student researcher in Machine Learning and Computational Biology at Bocconi, under the guidance of Professor Francesca Buffa.
 
-When I'm not coding or mathing around, you can find me practicing martial arts, playing chess, hiking, or watching football.
+When I'm not coding or mathing around, you can find me practicing martial arts, playing chess, or hiking with friends.
 
 ---
 
